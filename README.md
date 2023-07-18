@@ -1,7 +1,6 @@
 <div align="center">
-
-    Centro Federal de Ensino Tecnológico de Minas Gerais
-    Curso Técnico Integrado de Informática
+    <pre>Centro Federal de Ensino Tecnológico de Minas Gerais
+    Curso Técnico Integrado de Informática</pre>
   
   # Trabalho de Potêncial Elétrico | Física 3
 
